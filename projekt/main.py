@@ -11,7 +11,7 @@ while 1>0:
 
     while TRY < 6:
         CORRECT = words[random.randint(0,words_num)].lower()
-        print(CORRECT)
+        #print(CORRECT)
         WIN = 0
         TRY = 0
         print("GUESS 5 LETTER WORD")
